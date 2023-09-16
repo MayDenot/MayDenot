@@ -7,4 +7,4 @@
 [![blog](./assets/blogIconGithubProfile.jpg)](https://blog-maydev.vercel.app/)
 
 ## Bienvenido a mi Github 👋🏻
-Soy Desarrolladora Front-End 👩🏽‍💻 y autodidacta, actualmente utilizo y aprendo Astro realizando proyectos como Freelance y en busca de experiencia. 
+Soy Desarrolladora Front-End 👩🏽‍💻 y autodidacta, actualmente utilizo y aprendo Astro realizando proyectos y en busca de experiencia. 

@@ -1,4 +1,4 @@
-# 👩🏽 maydev
+# 😁 maydev
 
 ![Mi SetUp](./assets/setup-byn.png)
 
